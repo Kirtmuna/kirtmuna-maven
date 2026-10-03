@@ -3,11 +3,12 @@
   <groupId>jp.apple</groupId>
   <artifactId>AppleExtended-forge1.12.2-cleanroom</artifactId>
   <versioning>
-    <latest>2.5.2</latest>
-    <release>2.5.2</release>
+    <latest>2.5.3</latest>
+    <release>2.5.3</release>
     <versions>
       <version>2.5.2</version>
+      <version>2.5.3</version>
     </versions>
-    <lastUpdated>20261001082726</lastUpdated>
+    <lastUpdated>20261003054516</lastUpdated>
   </versioning>
 </metadata>
